@@ -1,4 +1,4 @@
-# WiFi-DensePose-Through-Walls
+# WiFi-DensePose- Detección A través de paredes
 
 Convierte estrictamente señales Wi‑Fi en una “cámara” capaz de reconstruir y visualizar la pose humana a través de paredes, usando la técnica DensePose de Detectron2. Basado en la investigación de la Universidad Carnegie Mellon.
 
